@@ -11,7 +11,7 @@ I'm Jonathan, a Computer Engineering student at the National University of Singa
 - 🌱 I’m currently learning web development frameworks like Next.js and intend to explore Flutter in the future too. I really enjoy the process of learning while building my own apps 😀
 - Besides coding, I enjoy playing sports ⚽ and photography 📷. I'm a massive Football and Formula 1 fan too!
 
-## Technologies & Tools
+## Technologies & Tools 🔧
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=61DBFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=61DBFB)
