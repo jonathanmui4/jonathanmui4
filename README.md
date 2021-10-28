@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**jonathanmui4/jonathanmui4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jonathan, a Computer Engineering student at the National University of Singapore. Do connect with me on:
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mui-6234841aa/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 🙋‍♂️
+
+- 🥅 I have a passion for all things tech and I hope to be able to make apps that can contribute to communities in 1 way or another.
+- 🌐 Recently developed an interest in full-stack web development and mobile development.  
+- 🌱 I’m currently learning web development frameworks like Next.js and intend to explore Flutter in the future too. I really enjoy the process of learning while building my own apps 😀
+- Besides coding, I enjoy playing sports ⚽ and photography 📷. I'm a massive Football and Formula 1 fan too!
+
+## Technologies & Tools
+
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=61DBFB)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=61DBFB)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=61DBFB)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=61DBFB)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=61DBFB)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=61DBFB)
+
+
+## GitHub Stats 📈
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanmui4&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmui4&count_private=true&show_icons=true&theme=react" />
+</a>
