@@ -7,8 +7,8 @@ I'm Jonathan, a Computer Engineering student at the National University of Singa
 ## About Me 🙋‍♂️
 
 - 🥅 I have a passion for all things tech and I hope to be able to make apps that can contribute to communities in 1 way or another.
-- 🌐 Recently developed an interest in full-stack web development and mobile development.  
-- 🌱 I’m currently learning web development frameworks like Next.js and intend to explore Flutter in the future too. I really enjoy the process of learning while building my own apps 😀
+- 🌐 Interested in creating great user experiences and helpful products, particularly interested in the fields of AR/VR and IoT
+- 🌱 I’m currently learning and developing my knowledge in AI, AR and VR 😀. I hope to be able to explore products that combine these fields
 - Besides coding, I enjoy playing sports ⚽ and photography 📷. I'm a massive Football and Formula 1 fan too!
 
 ## Technologies & Tools 🔧
